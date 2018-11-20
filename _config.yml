@@ -1,5 +1,5 @@
 # basic configuration
-baseurl: 
+baseurl: /digirights
 markdown: kramdown
 permalink: /:categories/:title/
 
